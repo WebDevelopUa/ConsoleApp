@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiThere", "ConsoleApp1\HiThere.csproj", "{28C509A1-98C2-4DB1-BCAA-C702F3C1D3EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "ProjectOne\Variables.csproj", "{FBCE3CBD-AC94-4BDD-AC73-9291F59E8DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "ProjectOne\Variables.csproj", "{FBCE3CBD-AC94-4BDD-AC73-9291F59E8DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSumCalculator", "ConsoleCalculator\ConsoleSumCalculator.csproj", "{1420F72D-C37C-4811-A863-42BFE2F43DC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleSumCalculator", "ConsoleCalculator\ConsoleSumCalculator.csproj", "{1420F72D-C37C-4811-A863-42BFE2F43DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNumber", "CheckNumber\CheckNumber.csproj", "{D7B4A876-EDD7-4F5F-8FE1-73470925686B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1420F72D-C37C-4811-A863-42BFE2F43DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1420F72D-C37C-4811-A863-42BFE2F43DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1420F72D-C37C-4811-A863-42BFE2F43DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B4A876-EDD7-4F5F-8FE1-73470925686B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B4A876-EDD7-4F5F-8FE1-73470925686B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B4A876-EDD7-4F5F-8FE1-73470925686B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B4A876-EDD7-4F5F-8FE1-73470925686B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
